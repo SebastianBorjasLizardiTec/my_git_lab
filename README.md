@@ -9,6 +9,7 @@ Git practice laboratory. First activity of learning how to operate with git and 
 ### Images
 
 ![Github Image](./github-cover.jpg)
+![Github Image](./TecSantaFe.jpeg)
 
 ### Code Examples
 
@@ -17,12 +18,12 @@ function add(a,b):
   c = a+b
   return c
 ```
+
 ### Lists
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
-
 
 ## References
 
