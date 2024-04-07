@@ -10,6 +10,14 @@ Git practice laboratory. First activity of learning how to operate with git and 
 
 ![Github Image](./github-cover.jpg)
 
+### Code Examples
+
+```
+function add(a,b):
+  c = a+b
+  return c
+```
+
 ## References
 
 [Github documentation](https://docs.github.com/en)
