@@ -5,4 +5,4 @@ b = int(input(“Give me the second number:”))
 
 
 # Display the subtraction
-console.log(a-b)
+console.log(a-b) #cambio de lenguaje
